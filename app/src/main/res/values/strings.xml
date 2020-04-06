@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared_Preferences_Tutorial</string>
+    <string name="save_data">Save Data</string>
+    <string name="show_data">Show Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="DATA">data</string>
+</resources>
