@@ -5,7 +5,7 @@
 #### Description:
 Store private primitive data in key-value pairs.
 ------------------------------------------------------------------------------
-### How to set up and run the project:
+### Job:
 If you need to store a lot of data and don't need a structure, you should use SharedPreferences. 
 SharedPreferences APIs allow you to read and write constant key-value pairs of primitive data types: 
 - booleans,
